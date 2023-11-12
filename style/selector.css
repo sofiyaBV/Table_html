@@ -1,0 +1,52 @@
+*{
+    padding:0;
+    margin:0 ;
+    color: #FFF;
+    font-family: Playpen Sans;
+    list-style: none;
+}
+body{
+    background-color: #161816;
+    width: 100vw;
+    height: 100vh;
+}
+header{
+    width: 595px;
+    height: 202px;
+    background-image: url(/img/group.png);
+    margin: 0 auto;
+}
+.name_box{
+    margin-left: 34px;
+    padding-top: 125px;
+}
+main{
+    margin: 0 auto;
+    width: 595px;
+    background: linear-gradient(180deg, #5A5A5A 0%, #191414 26.21%);
+}
+.btn{
+    margin-left: 35px ;
+    padding-top: 20px ;
+}
+.btn_text{
+    text-align: center;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 20px;
+    background: #1DB954;
+    margin-right: 12px;
+}
+.lincedin{
+    padding: 7px 20px 5px 20px;
+}
+.email{
+    padding: 7px 25px 5px 25px;
+}
+.call{
+    padding: 7px 28px 5px 28px;
+
+}
